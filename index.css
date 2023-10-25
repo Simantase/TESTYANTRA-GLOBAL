@@ -1,0 +1,550 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 80px;
+    
+   
+}
+.head2
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 50px;
+}
+.h1
+{
+    height: 60px;
+    
+    border: none;
+    width: 100px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.head2{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.body
+{
+    background-image: url(./A3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 1510px;
+    color: white;
+    position: relative;
+    
+}
+.b1
+{
+    font-size: 65px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin-left: 410px;
+    transform: translateY(120px);
+    
+    
+}
+.b2
+{
+   font-size: 90px;
+   width: 300px;
+   font-family: sans-serif; 
+   margin-left: 510px;
+   transform: translateY(120px);
+}
+.b3
+{
+    font-size: 31px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-left: 510px;
+    transform: translateY(120px);
+}
+.nnn1
+{
+display: flex;
+align-items: center;
+
+}
+.nnn1 a{
+text-decoration: none;
+color: black;
+}
+
+.navv1 a{
+    text-decoration: none;
+    color: #ed7553;
+}
+.nav1
+{
+    width: 280px;
+    height: 445px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gainsboro;
+    font-family: sans-serif;
+    
+}
+.nav1 h1{
+    font-size: 23px;
+    margin-left: 25px;
+}
+.nav1 p{
+    margin-left: 25px;
+}
+.navv1
+{
+    display: flex;
+    gap: 5px;
+    margin-left: 25px;
+   
+}
+.nav1 img{
+    border-radius: 10px;
+}
+.nav2
+{
+    width: 280px;
+    height: 395px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gainsboro;
+    font-family: sans-serif;
+    
+}
+.nav2 h1{
+    font-size: 23px;
+    margin-left: 25px;
+}
+.nav2 p{
+    margin-left: 25px;
+}
+.nav2 img{
+    border-radius: 10px;
+}
+.nav3
+{
+    width: 280px;
+    height: 465px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gainsboro;
+    font-family: sans-serif;
+    
+}
+.nav3 h1{
+    font-size: 23px;
+    margin-left: 25px;
+}
+.nav3 p{
+    margin-left: 25px;
+}
+.nav3 img{
+    border-radius: 10px;
+}
+.nav4
+{
+    width: 280px;
+    height: 425px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gainsboro;
+    font-family: sans-serif;
+    
+}
+.nav4 h1{
+    font-size: 23px;
+    margin-left: 25px;
+}
+.nav4 p{
+    margin-left: 25px;
+}
+.nav4 img{
+    border-radius: 10px;
+}
+.sec1
+{
+    display: flex;
+   margin-left: 750px;
+}
+.sec2
+{
+    display: flex;
+    margin-left: 750px;
+   
+}
+.nav1
+{
+    transform: translateY(-250px);
+}
+.nav2{
+    transform: translateY(-300px);
+    margin-left: 40px;
+}
+.nav3
+{
+    transform: translateY(-200px);
+}
+.nav4{
+    transform: translateY(-250px);
+    margin-left: 40px;
+}
+.na1{
+   position: relative;
+   margin-left: 140px;
+   transform: translateY(400px);
+  
+}
+.section
+{
+    background-color: whitesmoke;
+    height: 1150px;
+}
+.toe
+{
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top: 0px;
+    background-color:rgba(220, 220, 220, 0.681);
+    height: 535px;
+    width: 100%;
+   
+}
+.toe1
+{
+    transform: translateX(170px);
+    margin-top: 70px;
+}
+.toe2
+{
+  background-color: white;
+   height: 395px;
+   width: 395px;
+   margin-top: 70px;
+   margin-right: 70px;
+   
+}
+.toe2 h1{
+    margin-left: 40px;
+    font-family: sans-serif;
+    margin-top: 80px;
+}
+.toe2 p{
+    margin-left: 40px;
+    font-family: sans-serif;
+    margin-top: 40px;
+    font-size: 17px;
+}
+.fin1
+{
+  
+  transform: translateY(80px);
+    
+}
+.fin2
+{
+  
+  transform: translateY(80px);
+    
+}
+.fin3
+{
+ 
+  transform: translateY(80px);
+    
+}
+.fin4
+{
+
+  transform: translateY(80px);
+}
+.fing1
+{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.fing
+{
+   
+    height: 600px;
+}
+.fingg{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 45px;
+    transform: translateY(55px);
+}
+.fin1 h1{
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.fin2 h1{
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.fin3 h1{
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.fin4 h1{
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.sh1
+{
+    display: flex;
+    gap: 5px;
+    margin-left: 25px;
+   
+}
+.sh1 a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+.sh1 a:hover{
+   
+    color:#ea751c ;
+    
+}
+.sho1
+{
+    width: 380px;
+    height: 425px;
+    background-color: rgba(245, 245, 245, 0.685);
+    border-radius: 10px;
+    
+    font-family: sans-serif;
+}
+.sho1:hover{
+    box-shadow: 10px 10px 10px whitesmoke;
+}
+.shoo1:hover{
+    box-shadow: 10px 10px 10px whitesmoke;
+}
+.sho1 img{
+    border-radius: 10px;
+}
+.sho1 p{
+    margin-left: 30px;
+    font-family: sans-serif;
+    color: grey;
+}
+.sho1 h2{
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+.shoulder h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 47px;
+}
+.shoulder
+{
+    
+    height: 900px;
+}
+.shoo1
+{
+    width: 380px;
+    height: 425px;
+    background-color: rgba(245, 245, 245, 0.685);
+    border-radius: 10px;
+    
+    font-family: sans-serif;
+}
+.shh1
+{
+    display: flex;
+    gap: 5px;
+    margin-left: 25px;
+    color: white;
+    transform: translateY(-190px);
+   
+}
+.shh1 a{
+    text-decoration: none;
+   color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+.shh1 a:hover{
+   
+    color:#ea751c ;
+    
+}
+.shoo1 img{
+    border-radius: 10px;
+}
+.shoo1 p{
+    margin-left: 30px;
+    font-family: sans-serif;
+    color: white;
+    transform: translateY(-180px);
+}
+.shoo1 h2{
+    margin-left: 30px;
+    font-family: sans-serif;
+    color: white;
+    transform: translateY(-180px);
+}
+.should
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.shoo1 img{
+    position: relative;
+}
+.xx1
+{
+    margin-left: 640px;
+    margin-top: 50px;
+    height: 50px;
+    width: 250px;
+    border-radius: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ed7553;
+    border-color: #ed7553;
+    border-width: 1px;
+    background-color: white;
+}
+.xx1:hover{
+    color: white;
+    background-color: #ed7553;
+}
+.yy1
+{
+    margin-top: 50px;
+    color: #ea751c;
+}
+.footer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.foot{
+background-color:whitesmoke;
+height: 600px;
+}
+.foo1
+{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top: 70px;
+}
+.foo2 input
+{
+    height: 50px;
+    width: 350px;
+    border-radius: 30px;
+    border: none;
+    padding-left: 10px;
+    margin-top: 70px;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.67);
+    font-size: 18px;
+    position: relative;
+}
+.foo3 button
+{
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-top: 70px;
+   transform: translateX(-90px);
+}
+.hoo
+{
+    display: flex;
+    gap: 5px;
+}
+.ho
+{
+    display: flex;
+    gap: 9px;
+}
+.hooter{
+display: flex;
+justify-content: space-evenly;
+margin-top: 80px;
+}
+.hoot2 h3{
+font-family: sans-serif;
+}
+.hoot2 p{
+font-family: sans-serif;
+color: rgb(24 24 24);
+}
+.hoot3 h3{
+font-family: sans-serif;
+}
+.hoot3 p{
+font-family: sans-serif;
+color: rgb(24 24 24);
+}
+.hoot4 h3
+{
+    font-family: sans-serif;
+}
+.ho2 p{
+    font-family: sans-serif;
+    color: rgb(24 24 24);
+    font-size: 14px;
+}
+.last
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 80px;
+    align-items: center;
+    
+}
+.last2
+{
+    display: flex;
+    
+}
+.las1 a
+{
+    color: white;
+    margin-right: 30px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.las2 a
+{
+    color: white;
+    margin-right: 140px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.last1 p{
+    margin-left: 140px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
